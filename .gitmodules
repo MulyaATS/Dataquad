@@ -1,0 +1,3 @@
+[submodule "modules/Dataquad-UserRegister"]
+	path = modules/Dataquad-UserRegister
+	url = https://github.com/MulyaATS/Dataquad-UserRegister.git
